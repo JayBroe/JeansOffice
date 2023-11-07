@@ -1,0 +1,29 @@
+<?xml version = "1.0" encoding = "utf-8"?>
+<!DOCTYPE hibernate-configuration PUBLIC
+        "-//Hibernate/Hibernate Configuration DTD 3.0//EN"
+        "http://www.hibernate.org/dtd/hibernate-configuration-3.0.dtd">
+<hibernate-configuration>
+    <session-factory>
+
+        <!-- Set URL -->
+        <property name = "hibernate.connection.url">jdbc:mysql://localhost:3306/jeans_base?serverTimezone=UTC</property>
+
+        <!-- Set User Name -->
+        <property name = "hibernate.connection.username">root</property>
+
+        <!-- Set Password -->
+        <property name = "hibernate.connection.password">Flymetothemoon96!</property>
+
+        <!-- Set Driver Name -->
+        <property name = "hibernate.connection.driver_class">com.mysql.cj.jdbc.Driver</property>
+
+        <property name = "hibernate.show_sql">true</property>
+
+        <mapping class="entities.Major"/>
+        <mapping class="entities.Form"/>
+        <mapping class="entities.Year"/>
+        <mapping class="entities.Student"/>
+        <mapping class="entities.Replicas"/>
+
+    </session-factory>
+</hibernate-configuration>
