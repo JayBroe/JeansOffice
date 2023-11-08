@@ -24,7 +24,16 @@ Description of the folders:
 
 + application
   - contains classes responsible for Swing GUI windows
-
++ database
+  - contains classes for MySQL's DB connection and executing functions 
++ entities
+  - ORM mapped classes
++ main
+  - Just main class 
++ querries
+  - contains start-up tables with basic data (Years, Majors, Forms and Replicas)
++ swing
+  - overrided classes from original Swing 
 
 <!--->
 ## Hibenate
