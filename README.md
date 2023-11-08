@@ -15,7 +15,7 @@ Feel free to change the code for our own experiments!
 
 # Project structure 
 
-![Main menu screen][Main menu screen.png]
+![Main menu screen](Main menu screen.png)
 # Hibenate
 
 
