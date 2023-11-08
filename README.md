@@ -58,5 +58,5 @@ Project offers:
   - updating some of features of the object
   - showing all or selected objects
   - delecting objects 
-  - saving/retrieving state of the database
++ saving/retrieving state of the database
   
