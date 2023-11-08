@@ -11,7 +11,7 @@ Additionally, I've perceived that a lot of tutorials about Hibernate
 shows examples uncomplete in respect of required settings 
 or are just obsolete. 
 
-Feel free to change the code for our own experiments!
+Feel free to change the code for your own experiments!
 
 ## Project structure 
 
