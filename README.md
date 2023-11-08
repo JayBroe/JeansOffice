@@ -37,9 +37,14 @@ Description of the folders:
 
 <!--->
 ## Hibenate
-n
+Framework for Java used to implement an ORM (Object-Relational Mapping). Every class 
+from the entities folder was mapped to enable doing specified, ORM querries and native querries.
+More here: https://hibernate.org/
 
 ## Swing
+
+Another framework to create desktop application with many functions. 
+More here: https://docs.oracle.com/javase/tutorial/uiswing/
 
 ## Database construction
 
@@ -48,10 +53,10 @@ n
 Project offers:
 
 + basic CRUD operations
-  *Showing all the entities
-  *creating custom/random objects
-  *updating some of features of the object
-  *showing all or selected objects
-  *delecting objects 
-+ saving/retrieving state of the database
+  - Showing all the entities
+  - creating custom/random objects
+  - updating some of features of the object
+  - showing all or selected objects
+  - delecting objects 
+  - saving/retrieving state of the database
   
