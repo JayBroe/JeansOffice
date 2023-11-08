@@ -64,14 +64,13 @@ Project offers:
 
 # Steps to run the project 
 
-At first, you have to create the database - it's on your own. 
+1. At first, you have to create the database - it's on your own. 
 Personally, I recommend to make it via MySQL workbench (https://www.mysql.com/products/workbench/).
 
-After that, please go to the file querries/data.sql
+2. After that, please go to the file querries/data.sql
 and copy the lines responsible for creating the tables and their basic fullfilment.
 
-In the end, just go to the resources/hibernate.cfg.xml (standard xml file with basic db connection settings)
-
+3. In the end, just go to the resources/hibernate.cfg.xml (standard xml file with basic db connection settings)
 and estimate your database name, user and password you set while creating the database.
 
 Now, you can test the project. 
