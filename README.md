@@ -9,31 +9,49 @@ hand complicated... better use Spring next time ;)
 
 Additionally, I've perceived that a lot of tutorials about Hibernate 
 shows examples uncomplete in respect of required settings 
-or the are just obsolete. 
+or are just obsolete. 
 
 Feel free to change the code for our own experiments!
 
-# Project structure 
+## Project structure 
 
 <!--<img src="https://github.com/JayBroe/JeansOffice/blob/master/Main-menu-screen.png" alt="Alt text" title="Optional title"> -->
 
 <img src="https://github.com/JayBroe/JeansOffice/blob/master/project-structure.png" alt="Alt text" title="Optional title">
 <!--https://github.com/JayBroe/JeansOffice/blob/master/project-structure.png-->
 
+Description of the folders:
+
++ application
+  contains classes responsible for Swing GUI windows
++ database
+  contains classes for MySQL's DB connection and executing functions 
++ entities
+  ORM mapped classes
++ main
+  Just main class 
++ querries
+  contains start-up tables with basic data (Years, Majors, Forms and Replicas)
++ swing
+  overrided classes from original Swing 
+
 <!--->
-# Hibenate
+## Hibenate
 n
 
-# Swing
+## Swing
 
-# Database construction
+## Database construction
 
-# Possibilities
+## Possibilities
 
 Project offers:
 
-  basic CRUD operations
-    Showing all the entities
-    creating custom/random 
-  saving/retrieving state of the database
++ basic CRUD operations
+  *Showing all the entities
+  *creating custom/random objects
+  *updating some of features of the object
+  *showing all or selected objects
+  *delecting objects 
++ saving/retrieving state of the database
   
