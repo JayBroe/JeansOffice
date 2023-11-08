@@ -15,7 +15,12 @@ Feel free to change the code for our own experiments!
 
 # Project structure 
 
-<img src="https://github.com/JayBroe/JeansOffice/blob/master/Main-menu-screen.png" alt="Alt text" title="Optional title">
+<!--<img src="https://github.com/JayBroe/JeansOffice/blob/master/Main-menu-screen.png" alt="Alt text" title="Optional title"> -->
+
+<img src="https://github.com/JayBroe/JeansOffice/blob/master/project-structure.png" alt="Alt text" title="Optional title">
+<!--https://github.com/JayBroe/JeansOffice/blob/master/project-structure.png-->
+
+<!--->
 # Hibenate
 n
 
