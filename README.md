@@ -48,7 +48,7 @@ More here: https://docs.oracle.com/javase/tutorial/uiswing/
 
 ## Tables and relations
 
-<img src="https://github.com/JayBroe/JeansOffice/blob/master/Main-menu-screen.png" alt="Alt text" title="Optional title">
+<img src="Relations-diagram.png" alt="Alt text" title="Optional title">
 
 ## Possibilities
 
