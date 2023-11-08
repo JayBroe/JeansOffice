@@ -14,7 +14,8 @@ or the are just obsolete.
 Feel free to change the code for our own experiments!
 
 # Project structure 
-<img src="/path/to/img.jpg" alt="Alt text" title="Optional title">
+
+<img src="https://github.com/JayBroe/JeansOffice/blob/master/Main-menu-screen.png" alt="Alt text" title="Optional title">
 # Hibenate
 n
 
